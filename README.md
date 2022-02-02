@@ -12,13 +12,5 @@
 - Bluetooth: Dell DW380 Nancy Blakes
 
 ## Version
-- OpenCore: 0.7.2
-- macOS: 11.5.1
-
-## Known issues
-- Airdrop not working
-- Audio may not working after sleep
-
-## Not tested
-- SmartCard reader
-- HDMI port
+- OpenCore: 0.7.7
+- macOS: 11.6.3
